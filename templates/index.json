@@ -29,7 +29,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/3StarBook-2-Ubuntu-05x2000_7ae033a4-9037-4bac-84b7-16ff3ea3db33.png",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -46,7 +46,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "About us",
+            "heading": "Star Labs",
             "heading_size": "h1"
           }
         },
