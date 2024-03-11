@@ -6,20 +6,20 @@
         "heading_VJVjdK": {
           "type": "heading",
           "settings": {
-            "heading": "Open-source firmware powered by core boot and edk II.",
+            "heading": "Designed for Linux, Built for Linux",
             "heading_size": "h1"
           }
         },
         "text_E9zPAU": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Our hardware and firmware are highly customisable. Your laptop will arrive precisely the way you want it, with your chosen distribution pre-installed.<\/p>"
           }
         },
         "button_tpzyTV": {
           "type": "button",
           "settings": {
-            "button_label": "Our Mission",
+            "button_label": "Explore",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -55,7 +55,7 @@
         "text_nwL4h7": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Minimalist design. Powerful performance. The StarBook propels the open-source experience into the modern era.<\/p>",
             "text_style": "body"
           }
         },
@@ -74,15 +74,15 @@
         "button_hWH349"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/7StarBook-2-07x2000_6e124175-95d9-4d89-8f02-584556cff4c5.png",
+        "image": "shopify:\/\/shop_images\/1StarBook-2-Ubuntu-03x2000_fe507c33-60bd-4970-9ca2-4d30827c72e4.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-5",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -102,7 +102,7 @@
         "text_E6nzFd": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Compact yet powerful; your perfect partner in every journey.<\/p>",
             "text_style": "body"
           }
         },
@@ -121,14 +121,15 @@
         "button_VjmYgp"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/StarLite-MkV-05x2000_dd990f9c-0b6c-4dc6-82ee-6454b5f26737.png",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -141,14 +142,14 @@
         "heading_ihnVNa": {
           "type": "heading",
           "settings": {
-            "heading": "StarFighter",
+            "heading": "Byte",
             "heading_size": "h1"
           }
         },
         "text_7B3kxt": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Quiet. Compact. Uncompromisingly Secure.<\/p>",
             "text_style": "body"
           }
         },
@@ -167,14 +168,15 @@
         "button_EFd4kH"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/Image_2.png",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -188,7 +190,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/TPM-01x2000_04b9a00f-020b-441a-bc14-71ec55b44f6e.png",
-            "title": "Measured Boot",
+            "title": "<strong>Measured Boot<\/strong>",
             "text": "<p>Secured boot flow gives you peace of mind.<\/p>",
             "link_label": "",
             "link": ""
@@ -198,7 +200,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/lvfs-01x2000_c4937619-cad5-4892-9910-7476956d8add.png",
-            "title": "5-years of updates",
+            "title": "<strong>5-years of updates<\/strong>",
             "text": "<p>Backed by secure updates delivered via the LVFS.<\/p>",
             "link_label": "",
             "link": ""
@@ -207,7 +209,7 @@
         "column_tJdz3D": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
+            "image": "shopify:\/\/shop_images\/coreboot-01x2000_be78160a-8fa2-4252-bd7e-78e8613da001.png",
             "title": "<strong>Lightweight Firmware<\/strong>",
             "text": "<p>Super efficient firmware that only takes 0.76s to POST.<\/p>",
             "link_label": "",
