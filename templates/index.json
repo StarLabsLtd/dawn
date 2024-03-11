@@ -1,21 +1,27 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "rich_text_mwnpTX": {
+      "type": "rich-text",
       "blocks": {
-        "heading": {
+        "heading_VJVjdK": {
           "type": "heading",
           "settings": {
             "heading": "Designed for Linux, Built for Linux",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
-        "button": {
-          "type": "buttons",
+        "text_E9zPAU": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_tpzyTV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Our mission",
+            "button_link": "",
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -23,51 +29,63 @@
         }
       },
       "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/3StarBook-2-Ubuntu-05x2000_7ae033a4-9037-4bac-84b7-16ff3ea3db33.png",
-        "image_overlay_opacity": 40,
-        "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Star Labs",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are a small UK based company who specialise in designing and manufacturing laptops specifically for Linux. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
+        "heading_VJVjdK",
+        "text_E9zPAU",
+        "button_tpzyTV"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-4",
+        "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_Hd3K4F": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jaqzKF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_nwL4h7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_hWH349": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jaqzKF",
+        "text_nwL4h7",
+        "button_hWH349"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection_tMkkbJ": {
@@ -298,15 +316,87 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_83MrAL": {
+      "type": "featured-product",
+      "blocks": {
+        "text_4kb74j": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_PBGHyc": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_zN6ChL": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_VhzaEX": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_biczex": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_XHnxTJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_Gm9TLm": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_4kb74j",
+        "title_PBGHyc",
+        "price_zN6ChL",
+        "variant_picker_VhzaEX",
+        "quantity_selector_biczex",
+        "buy_buttons_XHnxTJ",
+        "share_Gm9TLm"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
+    "rich_text_mwnpTX",
+    "image_with_text_Hd3K4F",
     "featured_collection_tMkkbJ",
     "featured_product_bfVhDf",
     "collage_KWybcG",
     "collage",
-    "multicolumn"
+    "multicolumn",
+    "featured_product_83MrAL"
   ]
 }
