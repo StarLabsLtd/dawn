@@ -6,7 +6,7 @@
         "heading_VJVjdK": {
           "type": "heading",
           "settings": {
-            "heading": "Designed for Linux, Built for Linux",
+            "heading": "Open-source firmware powered by core boot and edk II.",
             "heading_size": "h1"
           }
         },
@@ -135,6 +135,155 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_HTCYaM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ihnVNa": {
+          "type": "heading",
+          "settings": {
+            "heading": "StarFighter",
+            "heading_size": "h1"
+          }
+        },
+        "text_7B3kxt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_EFd4kH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ihnVNa",
+        "text_7B3kxt",
+        "button_EFd4kH"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_tKhxtw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bPX89R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TPM-01x2000_04b9a00f-020b-441a-bc14-71ec55b44f6e.png",
+            "title": "Measured Boot",
+            "text": "<p>Secured boot flow gives you peace of mind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BN7xLT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lvfs-01x2000_c4937619-cad5-4892-9910-7476956d8add.png",
+            "title": "5-years of updates",
+            "text": "<p>Backed by secure updates delivered via the LVFS.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tJdz3D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
+            "title": "<strong>Lightweight Firmware<\/strong>",
+            "text": "<p>Super efficient firmware that only takes 0.76s to POST.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bPX89R",
+        "column_BN7xLT",
+        "column_tJdz3D"
+      ],
+      "settings": {
+        "title": "Open-source firmware",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Learn More",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_gCqcND": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_P9Dgki": {
+          "type": "heading",
+          "settings": {
+            "heading": "Endless Customisation",
+            "heading_size": "h1"
+          }
+        },
+        "text_HWp9Er": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tailor your firmware effortlessly using the Advanced Configuration interface, a nod to the trusted feel of traditional BIOS.<br\/><br\/>From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mold your firmware to your unique specifications.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Vj8JiL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_P9Dgki",
+        "text_HWp9Er",
+        "button_Vj8JiL"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -181,7 +330,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -193,6 +342,9 @@
     "rich_text_mwnpTX",
     "image_with_text_Hd3K4F",
     "image_with_text_tiNJBU",
+    "image_with_text_HTCYaM",
+    "multicolumn_tKhxtw",
+    "image_with_text_gCqcND",
     "multicolumn"
   ]
 }
