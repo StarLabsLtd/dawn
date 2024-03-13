@@ -84,8 +84,9 @@
         "column_qqeCNr": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Image_2_5b97aeb0-e0df-464a-ab1c-664b04d7d99a.png",
+            "title": "Intel N200 processor",
+            "text": "<p>Up to 3.7GHz quad-core processing<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -93,8 +94,9 @@
         "column_dPEwyF": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Image_3.png",
+            "title": "Compact",
+            "text": "<p>Sub 13cm footprint<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -102,8 +104,9 @@
         "column_VhVXEb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Image_6.png",
+            "title": "Quiet",
+            "text": "<p>Fanless 0db design<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -115,7 +118,60 @@
         "column_VhVXEb"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Quick. Quiet. Compact.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Gi3wrg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9Jr8D8": {
+          "type": "column",
+          "settings": {
+            "title": "Expandable Storage",
+            "text": "<p>Add a second 2.5\" SSD<\/p><p>Up to 6 TB storage<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Bk7Tyw": {
+          "type": "column",
+          "settings": {
+            "title": "Memory",
+            "text": "<p>Up to 16 GB 3200MHz memory<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NY3fxg": {
+          "type": "column",
+          "settings": {
+            "title": "Wireless",
+            "text": "<p>Removable wireless card<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9Jr8D8",
+        "column_Bk7Tyw",
+        "column_NY3fxg"
+      ],
+      "settings": {
+        "title": "Highly Configurable",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -544,6 +600,7 @@
   "order": [
     "main",
     "multicolumn_3BbPDg",
+    "multicolumn_Gi3wrg",
     "rich_text_k8NWek",
     "multicolumn_PD7PiM",
     "image_with_text_aUMEhL",
