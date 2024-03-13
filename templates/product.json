@@ -249,7 +249,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Firmware",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>AMD models:<br\/>AMI Aptio V<br\/>corebootComing soon<br\/>Intel models:<br\/>AMI Aptio V<br\/>coreboot<\/p>",
             "page": ""
           }
@@ -258,7 +258,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Memory",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>8GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 1 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>16GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>32GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 16GB<\/p><p><strong>Configurable to:<\/strong><br\/>64GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 32GB<\/p><p><\/p>",
             "page": ""
           }
@@ -271,6 +271,141 @@
             "row_content": "<p>Intel® Core™ i5-1240P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.30GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1260P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.40GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i3-1315U:<br\/>Intel® UHD Graphics<\/p><p>1.25GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1360P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.50GHz Max Dynamic Frequency<\/p><p>AMD Ryzen™ 7 5800U:<br\/>AMD Radeon™ Graphics<\/p><p>2.00GHz Graphics Frequency<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_tLjzAm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Connectivity",
+            "icon": "none",
+            "row_content": "<p><strong>Left<\/strong><br\/>Intel® Core™ i3-1315U and i7-1360P:<br\/>Thunderbolt 4.0 with Power Delivery 3.0<br\/>Intel® Core™ i5-1240P and i7-1260P, AMD Ryzen™ 7 5800U:<br\/>USB Type C with Power Delivery 3.0<br\/>HDMI<br\/>USB Type A<br\/>DC Charging<br\/>Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: DisplayPort (DP Alt Mode)<br\/>USB-C version: 3.2 Gen 2 (up to 10 Gbps)<br\/>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<\/p><p><strong>Right<\/strong><br\/>Micro SD Memory Card Reader<br\/>USB 3.0<br\/>USB 2.0<br\/>3.5mm Combination Jack<\/p><p>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<br\/>3.5mm support: Headphone\/Microphone<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LLq33y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Keyboard and Trackpad",
+            "icon": "none",
+            "row_content": "<p>Backlit keyboard<br\/>Glass trackpad for precise cursor control and Multi-Touch gestures<br\/>Built-in fingerprint reader<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KGNFQi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wireless",
+            "icon": "none",
+            "row_content": "<p>Intel Wi-Fi 6E AX210<br\/>802.11ax Wi-Fi; Up to 2.4 Gbps<br\/>802.11ac\/a\/b\/g\/n compatible<\/p><p>Key Type: E<br\/>Size: M2 2230<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gFixPe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Bluetooth",
+            "icon": "none",
+            "row_content": "<p>Bluetooth 5.3<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UJLRhA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Camera",
+            "icon": "none",
+            "row_content": "<p>1080p HD camera<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bxrHhC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Video Support",
+            "icon": "none",
+            "row_content": "<p>Simultaneously supports full native resolution on the built-in display and:<br\/>Up to two displays with 4096x2304 resolution at 60Hz<\/p><p>Up to 4096x2304 resolution at 60Hz using HDMI<br\/>Up to 4096x2304 resolution at 60Hz using Display Port<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_8LTpfG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Embedded Controller",
+            "icon": "none",
+            "row_content": "<p>ITE 5570E<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BCXhQm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TPM 2.0",
+            "icon": "none",
+            "row_content": "<p>Infineon OPTIGA™ SLB9670<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VafWyc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Audio",
+            "icon": "none",
+            "row_content": "<p>Stereo Speakers<br\/>Dual Digital Microphone<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rhkQi6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Battery and Power",
+            "icon": "none",
+            "row_content": "<p>Up to 14 hours battery life<br\/>65-watt-hour lithium-polymer battery<br\/>65w USB-C Power Adapter<\/p><p>Technology: Power Delivery 3.0<br\/>Minimum Wattage: 40W<br\/>DC Input: 19V 2.1A 3.5mm<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RpULmX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Operating Requirements",
+            "icon": "none",
+            "row_content": "<p>Line voltage: 100V to 240V AC<br\/>Frequency: 50Hz to 60Hz<br\/>Operating temperature: 5° to 40° C (41° to 104° F)<br\/>Storage temperature: -20° to 60° C (-4° to 140° F)<br\/>Relative humidity: 0% to 90% non-condensing<br\/>Operating altitude: tested up to 3048 metres (10000 feet)<br\/>Maximum storage altitude: 12192 metres (40000 feet)<br\/>Maximum shipping altitude: 12192 metres (40000 feet)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YcJP76": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Size and Weight",
+            "icon": "none",
+            "row_content": "<p>Height: 1.80 cm (0.70 inches)<br\/>Width: 32.63 cm (12.84 inches)<br\/>Depth: 22.04 cm (8.67 inches)<br\/>Weight: 1.4 kg (3.08 pounds)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ezXNJt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Operating System",
+            "icon": "none",
+            "row_content": "<p>Ubuntu 22.04 LTS (64-bit) or later<br\/>elementary OS 6.1 (64-bit) or later<br\/>Linux Mint 21 (64-bit) or later<br\/>Manjaro 21.3.7 (64-bit) or later<br\/>MX Linux 21.1 (64-bit) or later<br\/>Zorin OS 16.1 (64-bit) or later<br\/>Windows 11 22H1 (64-bit) or later<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Nkwbgn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's in the Box",
+            "icon": "none",
+            "row_content": "<p>14-inch StarBook<br\/>65W USB‑C Power Adapter<br\/>USB-C to DC Jack Charging Cable (2m)<br\/>Detachable plug (UK, EU, US and AU available)<\/p><p>Quick Start Guide<br\/>Protective Sleeve<br\/>Screen Cleaning Cloth<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d47HUW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Limited Warranty and Service",
+            "icon": "none",
+            "row_content": "<p>One-year limited warranty<br\/>One-year limited technical support<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -280,14 +415,29 @@
         "collapsible_row_pgmUhM",
         "collapsible_row_FXJB3p",
         "collapsible_row_4p8896",
-        "collapsible_row_BaLQjJ"
+        "collapsible_row_BaLQjJ",
+        "collapsible_row_tLjzAm",
+        "collapsible_row_LLq33y",
+        "collapsible_row_KGNFQi",
+        "collapsible_row_gFixPe",
+        "collapsible_row_UJLRhA",
+        "collapsible_row_bxrHhC",
+        "collapsible_row_8LTpfG",
+        "collapsible_row_BCXhQm",
+        "collapsible_row_VafWyc",
+        "collapsible_row_rhkQi6",
+        "collapsible_row_RpULmX",
+        "collapsible_row_YcJP76",
+        "collapsible_row_ezXNJt",
+        "collapsible_row_Nkwbgn",
+        "collapsible_row_d47HUW"
       ],
       "settings": {
         "caption": "",
         "heading": "Specification",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "section",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
