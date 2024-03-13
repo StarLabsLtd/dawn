@@ -177,7 +177,7 @@
         "text_4HmNgN": {
           "type": "text",
           "settings": {
-            "text": "<p>Open source hardware allows users to inspect the design and functionality of the laptop's components. This transparency can help identify any potential security or privacy vulnerabilities, as opposed to closed-source (proprietary) hardware, where the inner workings are not disclosed.<\/p>"
+            "text": "<p>We know that Linux users value open-source principles and robust security. That's why we've equipped the StarBook with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.<\/p>"
           }
         }
       },
