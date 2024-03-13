@@ -507,12 +507,42 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_8DciBC": {
+          "type": "column",
+          "settings": {
+            "title": "Support the developers",
+            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b493Ur": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T6dnXW": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_q9g6bz",
         "column_LNV7tY",
-        "column_r6cihA"
+        "column_r6cihA",
+        "column_8DciBC",
+        "column_b493Ur",
+        "column_T6dnXW"
       ],
       "settings": {
         "title": "",
