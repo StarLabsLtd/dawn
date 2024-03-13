@@ -463,6 +463,7 @@
         "column_LNV7tY": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/wizard-01x2000.png",
             "title": "Unparalleled support",
             "text": "<p>Our highly skilled support team based in the UK can assist with any support queries or general advice on getting the best out of Linux and our laptops.<\/p>",
             "link_label": "",
@@ -472,7 +473,8 @@
         "column_r6cihA": {
           "type": "column",
           "settings": {
-            "title": "Assembled in the UK",
+            "image": "shopify:\/\/shop_images\/UK-01x2000.png",
+            "title": "<strong>Assembled, imaged and programmed in the UK<\/strong>",
             "text": "<p>Configured by our own engineers, giving you peace of mind that you get what you want with no hidden extras.<\/p>",
             "link_label": "",
             "link": ""
@@ -481,8 +483,9 @@
         "column_GTFHQe": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/ssd-01x200.png",
+            "title": "<strong>Custom-built to order<\/strong>",
+            "text": "<p>Our laptops are highly customisable, which allows you to only pay for what you will use. You can choose from a host of options, ranging from the power cable to the firmware.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -490,8 +493,9 @@
         "column_VGHLUN": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/octocat-01x2000.png",
+            "title": "<strong>Supports the developers<\/strong>",
+            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
             "link_label": "",
             "link": ""
           }
