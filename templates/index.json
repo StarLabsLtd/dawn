@@ -183,6 +183,48 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_iBNeBH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rPix8Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Open Warranty",
+            "heading_size": "h1"
+          }
+        },
+        "text_kPUMqM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hardware designed for open-source software needs an open warranty. Our 1-year limited warranty allows you to take your computer apart, replace parts, install an upgrade, and use any operating system and even your firmware, all without voiding the warranty.<\/p>"
+          }
+        },
+        "button_KHfnR3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rPix8Y",
+        "text_kPUMqM",
+        "button_KHfnR3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_tKhxtw": {
       "type": "multicolumn",
       "blocks": {
@@ -345,6 +387,7 @@
     "image_with_text_Hd3K4F",
     "image_with_text_tiNJBU",
     "image_with_text_HTCYaM",
+    "rich_text_iBNeBH",
     "multicolumn_tKhxtw",
     "image_with_text_gCqcND",
     "multicolumn"

@@ -11,7 +11,9 @@
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "caption": {
           "type": "text",
@@ -21,16 +23,21 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
           }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -40,7 +47,9 @@
           }
         },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
@@ -68,21 +77,6 @@
             "content": "",
             "page": ""
           }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -96,20 +90,22 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-2"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "gallery_layout": "stacked",
+        "color_scheme": "",
         "media_size": "large",
         "constrain_to_viewport": true,
-        "mobile_thumbnails": "hide",
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 32
       }
     },
     "image-with-text": {
@@ -141,7 +137,9 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "scheme-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -183,9 +181,9 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -195,9 +193,11 @@
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
+        "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -205,12 +205,104 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "collapsible_content_EDbXnU": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qPjhEk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Chassis",
+            "icon": "none",
+            "row_content": "<p>Type II matte black anodised aluminium<\/p><p>Finish: Bead blasted<br\/>Aluminium Grade: 6<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_N8Kdck": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Display",
+            "icon": "none",
+            "row_content": "<p>14-inch (diagonal) LED-backlit matte display with IPS technology<br\/>1920x1080 resolution at 157 pixels per inch<br\/>16:9 aspect ratio<\/p><p>Brightness: 400cd\/m²<br\/>Type: IPS<br\/>Color Depth (NTSC): 72%<br\/>Color Depth (sRGB): 100%<br\/>Contrast Ratio: 1000:1<br\/>Haze: 21%<br\/>Coating: 3H Hard Coat<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HTaTja": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Processor",
+            "icon": "none",
+            "row_content": "<p><strong>1.70GHz 12-core Intel® Core™ i5-1240P<\/strong><br\/>Turbo Boost up to 4.40GHz, with 12MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>2.10GHz 12-core Intel® Core™ i7-1260P<\/strong><br\/>Turbo Boost up to 4.70GHz, with 18MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>1.20GHz 6-core Intel® Core™ i3-1315U<\/strong><br\/>Turbo Boost up to 4.50GHz, with 10MB Cache<\/p><p>6 Cores<br\/>8 Threads<br\/>15W TDP<br\/>55W PL2<\/p><p><br\/><strong>2.20GHz 12-core Intel® Core™ i7-1360P<\/strong><br\/>Turbo Boost up to 5.00GHz, with 18MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>1.90GHz 8-core AMD Ryzen™ 7 5800U<\/strong><br\/>Boost clock up to 4.40GHz, with 16MB L3 Cache<\/p><p>8 Cores<br\/>16 Threads<br\/>25W TDP<br\/>45W PL2<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pgmUhM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Storage",
+            "icon": "none",
+            "row_content": "<p><strong>AMD models:<\/strong><br\/> <br\/>512GB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 2430MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>1TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>2TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><strong>Intel models:<\/strong><br\/> <br\/>512GB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 6500MB\/s<br\/>Write Speed (CDM): 2850MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>1TB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 7000MB\/s<br\/>Write Speed (CDM): 5500MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>2TB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 7000MB\/s<br\/>Write Speed (CDM): 5600MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FXJB3p": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Firmware",
+            "icon": "check_mark",
+            "row_content": "<p>AMD models:<br\/>AMI Aptio V<br\/>corebootComing soon<br\/>Intel models:<br\/>AMI Aptio V<br\/>coreboot<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4p8896": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Memory",
+            "icon": "check_mark",
+            "row_content": "<p>8GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 1 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>16GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>32GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 16GB<\/p><p><strong>Configurable to:<\/strong><br\/>64GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 32GB<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BaLQjJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Graphics",
+            "icon": "none",
+            "row_content": "<p>Intel® Core™ i5-1240P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.30GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1260P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.40GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i3-1315U:<br\/>Intel® UHD Graphics<\/p><p>1.25GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1360P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.50GHz Max Dynamic Frequency<\/p><p>AMD Ryzen™ 7 5800U:<br\/>AMD Radeon™ Graphics<\/p><p>2.00GHz Graphics Frequency<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qPjhEk",
+        "collapsible_row_N8Kdck",
+        "collapsible_row_HTaTja",
+        "collapsible_row_pgmUhM",
+        "collapsible_row_FXJB3p",
+        "collapsible_row_4p8896",
+        "collapsible_row_BaLQjJ"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Specification",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products"
+    "related-products",
+    "collapsible_content_EDbXnU"
   ]
 }
