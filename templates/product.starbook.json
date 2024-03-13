@@ -114,9 +114,9 @@
         "column_iLWnGQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lite-5-MU-03x2000_0320b1e6-1845-4df1-b881-abe6893b7fd5.png",
-            "title": "Crystal clarity. Touch precision.",
-            "text": "<p>Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
+            "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
+            "title": "All matte. No glare.",
+            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -124,7 +124,7 @@
         "column_YF8RPz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/StarLite-MkV-01x2000.png",
+            "image": "shopify:\/\/shop_images\/StarBook-2-04x2000_74a56b69-26ec-4543-a950-d91ec81497c9.png",
             "title": "Glass Trackpad. Metal Chassis.",
             "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
             "link_label": "",
@@ -148,7 +148,7 @@
         "column_hM3UDp"
       ],
       "settings": {
-        "title": "Compact yet powerful.",
+        "title": "Minimalist design. Powerful performance. ",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -333,7 +333,7 @@
         "column_QzYtJd": {
           "type": "column",
           "settings": {
-            "title": "WiFi 5 and Bluetooth 5.1",
+            "title": "WiFi 6E and Bluetooth 5.3",
             "text": "<p>For all things wireless<\/p>",
             "link_label": "",
             "link": ""
@@ -342,8 +342,8 @@
         "column_8xR74x": {
           "type": "column",
           "settings": {
-            "title": "2 x USB-C",
-            "text": "<p>For charging and expansion<\/p>",
+            "title": "USB-C",
+            "text": "<p>With Thunderbolt™ 4 for charging and expansion*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -351,8 +351,26 @@
         "column_R9fncA": {
           "type": "column",
           "settings": {
-            "title": "Micro HDMI",
-            "text": "<p>For easy output<\/p>",
+            "title": "HDMI",
+            "text": "<p>For easy output virtually everywhere<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EfYfyt": {
+          "type": "column",
+          "settings": {
+            "title": "USB-A",
+            "text": "<p>2 x Full-size USB 3.0<\/p><p>1 x Full-size USB 2.0<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3FpWzM": {
+          "type": "column",
+          "settings": {
+            "title": "Combo Jack",
+            "text": "<p>For audio input and output<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -365,23 +383,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_3FpWzM": {
-          "type": "column",
-          "settings": {
-            "title": "Headphone Jack",
-            "text": "<p>For audio output<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_QzYtJd",
         "column_8xR74x",
         "column_R9fncA",
-        "column_jBKk7y",
-        "column_3FpWzM"
+        "column_EfYfyt",
+        "column_3FpWzM",
+        "column_jBKk7y"
       ],
       "settings": {
         "title": "",
@@ -423,7 +433,7 @@
         "text_n8Ppi6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/StarLite-MkV-06x2000.png",
+        "image": "shopify:\/\/shop_images\/5StarBook-2-10x2000_5ad9242f-5e2b-4444-ab32-39190016025f.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -538,7 +548,7 @@
           "settings": {
             "heading": "Display",
             "icon": "none",
-            "row_content": "<p>12.5-inch (diagonal) LED-backlit 10-point touch display with IPS technology<br\/>2880x1920 resolution at 276 pixels per inch<br\/>3:2 aspect ratio<\/p>",
+            "row_content": "<p>14-inch (diagonal) LED-backlit matte display with IPS technology<br\/>1920x1080 resolution at 157 pixels per inch<br\/>16:9 aspect ratio<\/p><p>Brightness: 400cd\/m²<br\/>Type: IPS<br\/>Color Depth (NTSC): 72%<br\/>Color Depth (sRGB): 100%<br\/>Contrast Ratio: 1000:1<br\/>Haze: 21%<br\/>Coating: 3H Hard Coat<\/p>",
             "page": ""
           }
         },
@@ -547,7 +557,7 @@
           "settings": {
             "heading": "Processor",
             "icon": "none",
-            "row_content": "<p>1.00GHz quad-core Intel Alder Lake N200<br\/>Turbo Boost up to 3.70GHz, with 6MB Smart Cache<\/p><p>4 Cores<br\/>4 Threads<br\/>6W TDP<br\/>25W PL2<\/p>",
+            "row_content": "<p><strong>1.70GHz 12-core Intel® Core™ i5-1240P<\/strong><br\/>Turbo Boost up to 4.40GHz, with 12MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>2.10GHz 12-core Intel® Core™ i7-1260P<\/strong><br\/>Turbo Boost up to 4.70GHz, with 18MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>1.20GHz 6-core Intel® Core™ i3-1315U<\/strong><br\/>Turbo Boost up to 4.50GHz, with 10MB Cache<\/p><p>6 Cores<br\/>8 Threads<br\/>15W TDP<br\/>55W PL2<\/p><p><br\/><strong>2.20GHz 12-core Intel® Core™ i7-1360P<\/strong><br\/>Turbo Boost up to 5.00GHz, with 18MB Cache<\/p><p>12 Cores<br\/>16 Threads<br\/>28W TDP<br\/>64W PL2<\/p><p><br\/><strong>1.90GHz 8-core AMD Ryzen™ 7 5800U<\/strong><br\/>Boost clock up to 4.40GHz, with 16MB L3 Cache<\/p><p>8 Cores<br\/>16 Threads<br\/>25W TDP<br\/>45W PL2<\/p>",
             "page": ""
           }
         },
@@ -556,7 +566,7 @@
           "settings": {
             "heading": "Storage",
             "icon": "none",
-            "row_content": "<p> <br\/>512GB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 2430MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p><p><strong>Configurable to:<\/strong><br\/>1TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p><p><strong>Configurable to:<\/strong><br\/>2TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p>",
+            "row_content": "<p><strong>AMD models:<\/strong><br\/> <br\/>512GB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 2430MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>1TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>2TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><strong>Intel models:<\/strong><br\/> <br\/>512GB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 6500MB\/s<br\/>Write Speed (CDM): 2850MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>1TB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 7000MB\/s<br\/>Write Speed (CDM): 5500MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p><p><br\/>2TB Gen4 PCIe SSD<\/p><p>Read Speed (CDM): 7000MB\/s<br\/>Write Speed (CDM): 5600MB\/s<br\/>Key Type: M<br\/>Size: M2 2280<br\/>Design: Single-Sided<\/p>",
             "page": ""
           }
         },
@@ -565,7 +575,7 @@
           "settings": {
             "heading": "Firmware",
             "icon": "none",
-            "row_content": "<p>coreboot<\/p>",
+            "row_content": "<p>AMD models:<br\/>AMI Aptio V<br\/>corebootComing soon<br\/>Intel models:<br\/>AMI Aptio V<br\/>coreboot<\/p>",
             "page": ""
           }
         },
@@ -574,7 +584,7 @@
           "settings": {
             "heading": "Memory",
             "icon": "none",
-            "row_content": "<p>16GB of 4800MHz LPDDR5 onboard memory<\/p>",
+            "row_content": "<p>8GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 1 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>16GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 8GB<\/p><p><strong>Configurable to:<\/strong><br\/>32GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 16GB<\/p><p><strong>Configurable to:<\/strong><br\/>64GB of 3200MHz DDR4 memory<\/p><p>Form Factor: SO-DIMM<br\/>Type: DDR4<br\/>Configuration: 2 × 32GB<\/p><p><\/p>",
             "page": ""
           }
         },
@@ -583,7 +593,7 @@
           "settings": {
             "heading": "Graphics",
             "icon": "none",
-            "row_content": "<p>Intel UHD Graphics<\/p><p>750MHz Graphics Frequency<\/p>",
+            "row_content": "<p>Intel® Core™ i5-1240P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.30GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1260P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.40GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i3-1315U:<br\/>Intel® UHD Graphics<\/p><p>1.25GHz Max Dynamic Frequency<\/p><p>Intel® Core™ i7-1360P:<br\/>Intel® Iris® Xe Graphics<\/p><p>1.50GHz Max Dynamic Frequency<\/p><p>AMD Ryzen™ 7 5800U:<br\/>AMD Radeon™ Graphics<\/p><p>2.00GHz Graphics Frequency<\/p>",
             "page": ""
           }
         },
@@ -592,7 +602,7 @@
           "settings": {
             "heading": "Connectivity",
             "icon": "none",
-            "row_content": "<p>Micro HDMI<br\/>USB Type C 3.2 with Power Delivery 3.0<br\/>USB Type C 3.2 with Power Delivery 3.0<br\/>Micro SD Memory Card Reader<br\/>3.5mm Headphone Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: Display Port (DP Alt Mode)<br\/>USB version: 3.2 Gen 2 (up to 10 Gbps)<\/p>",
+            "row_content": "<p><strong>Left<\/strong><br\/>Intel® Core™ i3-1315U and i7-1360P:<br\/>Thunderbolt 4.0 with Power Delivery 3.0<br\/>Intel® Core™ i5-1240P and i7-1260P, AMD Ryzen™ 7 5800U:<br\/>USB Type C with Power Delivery 3.0<br\/>HDMI<br\/>USB Type A<br\/>DC Charging<br\/>Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: DisplayPort (DP Alt Mode)<br\/>USB-C version: 3.2 Gen 2 (up to 10 Gbps)<br\/>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<\/p><p><strong>Right<\/strong><br\/>Micro SD Memory Card Reader<br\/>USB 3.0<br\/>USB 2.0<br\/>3.5mm Combination Jack<\/p><p>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<br\/>3.5mm support: Headphone\/Microphone<\/p>",
             "page": ""
           }
         },
@@ -601,7 +611,7 @@
           "settings": {
             "heading": "Keyboard and Trackpad",
             "icon": "none",
-            "row_content": "<p>Magnetic Backlit keyboard<br\/>Trackpad for precise cursor control and Multi-Touch gestures<\/p>",
+            "row_content": "<p>Backlit keyboard<br\/>Glass trackpad for precise cursor control and Multi-Touch gestures<br\/>Built-in fingerprint reader<\/p>",
             "page": ""
           }
         },
@@ -610,7 +620,7 @@
           "settings": {
             "heading": "Wireless",
             "icon": "none",
-            "row_content": "<p>Intel Wi-Fi 5 9560<br\/>802.11ac Wi-Fi; Up to 1.73 Gbps<br\/>802.11ac\/a\/b\/g\/n compatible<\/p>",
+            "row_content": "<p>Intel Wi-Fi 6E AX210<br\/>802.11ax Wi-Fi; Up to 2.4 Gbps<br\/>802.11ac\/a\/b\/g\/n compatible<\/p><p>Key Type: E<br\/>Size: M2 2230<\/p>",
             "page": ""
           }
         },
@@ -619,7 +629,7 @@
           "settings": {
             "heading": "Bluetooth",
             "icon": "none",
-            "row_content": "<p>Bluetooth 5.1<\/p>",
+            "row_content": "<p>Bluetooth 5.3<\/p>",
             "page": ""
           }
         },
@@ -628,7 +638,7 @@
           "settings": {
             "heading": "Camera",
             "icon": "none",
-            "row_content": "<p>2k camera<br\/>2k rear camera<\/p>",
+            "row_content": "<p>1080p HD camera<\/p>",
             "page": ""
           }
         },
@@ -637,16 +647,7 @@
           "settings": {
             "heading": "Video Support",
             "icon": "none",
-            "row_content": "<p>Simultaneously supports full native resolution on the built-in display and:<br\/>Up to two displays with 3840x2160 resolution at 30Hz<\/p><p>Up to 3840x2160 resolution at 60Hz using HDMI<br\/>Up to 3840x2160 resolution at 30Hz using Display Port<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_VafWyc": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Audio",
-            "icon": "none",
-            "row_content": "<p>Stereo Speakers<br\/>Dual Digital Microphone<\/p>",
+            "row_content": "<p>Simultaneously supports full native resolution on the built-in display and:<br\/>Up to two displays with 4096x2304 resolution at 60Hz<\/p><p>Up to 4096x2304 resolution at 60Hz using HDMI<br\/>Up to 4096x2304 resolution at 60Hz using Display Port<\/p>",
             "page": ""
           }
         },
@@ -659,12 +660,30 @@
             "page": ""
           }
         },
+        "collapsible_row_BCXhQm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TPM 2.0",
+            "icon": "none",
+            "row_content": "<p>Infineon OPTIGA™ SLB9670<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VafWyc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Audio",
+            "icon": "none",
+            "row_content": "<p>Stereo Speakers<br\/>Dual Digital Microphone<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_rhkQi6": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Battery and Power",
             "icon": "none",
-            "row_content": "<p>Up to 12 hours battery life<br\/>38-watt-hour lithium-polymer battery<br\/>65w USB-C Power Adapter<\/p>",
+            "row_content": "<p>Up to 14 hours battery life<br\/>65-watt-hour lithium-polymer battery<br\/>65w USB-C Power Adapter<\/p><p>Technology: Power Delivery 3.0<br\/>Minimum Wattage: 40W<br\/>DC Input: 19V 2.1A 3.5mm<\/p>",
             "page": ""
           }
         },
@@ -682,7 +701,7 @@
           "settings": {
             "heading": "Size and Weight",
             "icon": "none",
-            "row_content": "<p>Height: 0.89 cm (0.35 inches)<br\/>Width: 28.33 cm (11.15 inches)<br\/>Depth: 20.3 cm (7.99 inches)<br\/>Weight: 0.9 kg (1.98 pounds)<\/p>",
+            "row_content": "<p>Height: 1.80 cm (0.70 inches)<br\/>Width: 32.63 cm (12.84 inches)<br\/>Depth: 22.04 cm (8.67 inches)<br\/>Weight: 1.4 kg (3.08 pounds)<\/p>",
             "page": ""
           }
         },
@@ -700,7 +719,7 @@
           "settings": {
             "heading": "What's in the Box",
             "icon": "none",
-            "row_content": "<p>12.5-inch Star Lite<br\/>65W USB‑C Power Adapter<br\/>USB-C to USB-C Charging Cable (2m)<br\/>Detachable plug (UK, EU, US and AU available)<\/p>",
+            "row_content": "<p>14-inch StarBook<br\/>65W USB‑C Power Adapter<br\/>USB-C to DC Jack Charging Cable (2m)<br\/>Detachable plug (UK, EU, US and AU available)<\/p><p>Quick Start Guide<br\/>Protective Sleeve<br\/>Screen Cleaning Cloth<\/p>",
             "page": ""
           }
         },
@@ -728,8 +747,9 @@
         "collapsible_row_gFixPe",
         "collapsible_row_UJLRhA",
         "collapsible_row_bxrHhC",
-        "collapsible_row_VafWyc",
         "collapsible_row_8LTpfG",
+        "collapsible_row_BCXhQm",
+        "collapsible_row_VafWyc",
         "collapsible_row_rhkQi6",
         "collapsible_row_RpULmX",
         "collapsible_row_YcJP76",
