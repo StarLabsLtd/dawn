@@ -108,13 +108,155 @@
         "padding_bottom": 32
       }
     },
+    "multicolumn_g9LRQk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iLWnGQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
+            "title": "All matte. No glare.",
+            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YF8RPz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/StarBook-2-11x2000.png",
+            "title": "Glass Trackpad. Metal Chassis.",
+            "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hM3UDp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8C3-07x2000_3ba8a2c8-ea61-481a-bf2a-f6347e7273ed.png",
+            "title": "Minuscule Charger. Massive Battery.",
+            "text": "<p>65-watt-hour lithium-polymer battery providing up to 14 hours battery life with a Gallium Nitride charger that is 30% smaller than traditional chargers, making it easy to take on the go.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iLWnGQ",
+        "column_YF8RPz",
+        "column_hM3UDp"
+      ],
+      "settings": {
+        "title": "Minimalist design. Powerful performance. ",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_nhfUpf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KbXUhi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Open-source firmware powered by coreboot and edk II",
+            "heading_size": "h1"
+          }
+        },
+        "text_4HmNgN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KbXUhi",
+        "text_4HmNgN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_txiYXy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aWmd4a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TPM-01x2000_04b9a00f-020b-441a-bc14-71ec55b44f6e.png",
+            "title": "Measured Boot",
+            "text": "<p>Secured boot flow gives you peace of mind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PQTQcd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lvfs-01x2000_c4937619-cad5-4892-9910-7476956d8add.png",
+            "title": "5-years of updates",
+            "text": "<p>Backed by secure updates delivered via the LVFS.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_imUHWk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coreboot-01x2000_be78160a-8fa2-4252-bd7e-78e8613da001.png",
+            "title": "Lightweight Firmware",
+            "text": "<p>Super efficient firmware that only takes 0.76s to POST.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aWmd4a",
+        "column_PQTQcd",
+        "column_imUHWk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "All matte. No glare.",
+            "heading": "Endless Firmware Customization",
             "heading_size": "h1"
           }
         },
@@ -448,67 +590,16 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "multicolumn_g9LRQk": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_iLWnGQ": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YF8RPz": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hM3UDp": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_iLWnGQ",
-        "column_YF8RPz",
-        "column_hM3UDp"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
+    "multicolumn_g9LRQk",
+    "rich_text_nhfUpf",
+    "multicolumn_txiYXy",
     "image-with-text",
     "multicolumn",
     "collapsible_content_EDbXnU",
-    "related-products",
-    "multicolumn_g9LRQk"
+    "related-products"
   ]
 }
