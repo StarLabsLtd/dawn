@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "rich_text_fxU7QR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dMqiBb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Open warranty",
+            "heading_size": "h1"
+          }
+        },
+        "text_TGrMik": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hardware designed for open-source software needs an open warranty. Our 1-year limited warranty allows you to take your computer apart, replace parts, install an upgrade, and use any operating system and even your firmware, all without voiding the warranty.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dMqiBb",
+        "text_TGrMik"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_48tfcQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_q9g6bz": {
+          "type": "column",
+          "settings": {
+            "title": "TODO: Shipping",
+            "text": "<p>Free Express Shipping to UK. <\/p><p>International shipping available, price calculated at checkout.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LNV7tY": {
+          "type": "column",
+          "settings": {
+            "title": "Unparalleled support",
+            "text": "<p>Our highly skilled support team based in the UK can assist with any support queries or general advice on getting the best out of Linux and our laptops.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r6cihA": {
+          "type": "column",
+          "settings": {
+            "title": "14-days to change your mind",
+            "text": "<p>We do this for passion, and as such, we're confident you'll love our laptops as much as we do. If you don't, you have 14 days from the day you receive it to change your mind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_q9g6bz",
+        "column_LNV7tY",
+        "column_r6cihA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_fxU7QR",
+    "multicolumn_48tfcQ",
+    "related-products"
+  ]
+}
