@@ -472,6 +472,16 @@
             "link": ""
           }
         },
+        "column_qtY663": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/package-01x2000.png",
+            "title": "<strong>14 days to change your mind<\/strong>",
+            "text": "<p>We do this for passion, and as such, we're confident you'll love our laptops as much as we do. If you don't, you have 14 days from the day you receive it to change your mind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_LNV7tY": {
           "type": "column",
           "settings": {
@@ -491,44 +501,8 @@
             "link_label": "",
             "link": ""
           }
-        }
-      },
-      "block_order": [
-        "column_q9g6bz",
-        "column_LNV7tY",
-        "column_r6cihA"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_3QYP6U": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_G7EGgi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/octocat-01x2000.png",
-            "title": "<strong>Supports the developers<\/strong>",
-            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         },
-        "column_efUYyt": {
+        "column_zWzgjY": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/ssd-01x200.png",
@@ -538,21 +512,24 @@
             "link": ""
           }
         },
-        "column_LBMHqk": {
+        "column_7iKxCY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/package-01x2000.png",
-            "title": "<strong>14 days to change your mind<\/strong>",
-            "text": "<p>We do this for passion, and as such, we're confident you'll love our laptops as much as we do. If you don't, you have 14 days from the day you receive it to change your mind.<\/p>",
+            "image": "shopify:\/\/shop_images\/octocat-01x2000.png",
+            "title": "<strong>Supports the developers<\/strong>",
+            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_G7EGgi",
-        "column_efUYyt",
-        "column_LBMHqk"
+        "column_q9g6bz",
+        "column_qtY663",
+        "column_LNV7tY",
+        "column_r6cihA",
+        "column_zWzgjY",
+        "column_7iKxCY"
       ],
       "settings": {
         "title": "",
@@ -664,7 +641,6 @@
     "multicolumn_abQ9dV",
     "rich_text_fxU7QR",
     "multicolumn_48tfcQ",
-    "multicolumn_3QYP6U",
     "related-products",
     "collapsible_content_i3C9ja"
   ]
