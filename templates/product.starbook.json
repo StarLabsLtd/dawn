@@ -423,7 +423,7 @@
         "text_n8Ppi6": {
           "type": "text",
           "settings": {
-            "text": "<p>Backlit<\/p><p>Media Keys<\/p><p>Function Lock<\/p><p>International Layouts Available<\/p><p><\/p>",
+            "text": "<p><strong>Backlit:<\/strong> comfortable backlit keys with snappy scissor mechanisms<\/p><p><strong>Media Keys:<\/strong> for playback, volume, brightness, screenshots and more<\/p><p><strong>Function Lock:<\/strong> switch between media and traditional function keys with one tap<\/p><p><strong>International Layouts: <\/strong>US English, UK English, French, German, Nordic and Spanish layouts<\/p><p><\/p>",
             "text_style": "body"
           }
         }
