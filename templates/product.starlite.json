@@ -81,12 +81,20 @@
     "multicolumn_g9LRQk": {
       "type": "multicolumn",
       "blocks": {
+        "column_hM3UDp": {
+          "type": "column",
+          "settings": {
+            "title": "Intel Alder Lake N200 processor",
+            "text": "<ul><li>1.00GHz quad-core Intel Alder Lake N200<\/li><li>Turbo Boost up to 3.70GHz, with 6MB Smart Cache<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_iLWnGQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lite-5-MU-03x2000_0320b1e6-1845-4df1-b881-abe6893b7fd5.png",
-            "title": "Crystal clarity. Touch precision.",
-            "text": "<p>Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
+            "title": "12.5-inch visible 3k touch display",
+            "text": "<ul><li>2880x1920 resolution<\/li><li>300cd\/m² brightness<\/li><li>178° viewing angles<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -94,28 +102,17 @@
         "column_YF8RPz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/StarLite-MkV-01x2000.png",
-            "title": "Glass Trackpad. Metal Chassis.",
-            "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hM3UDp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7StarBook-2-07x2000_6e124175-95d9-4d89-8f02-584556cff4c5.png",
-            "title": "Minuscule Charger. Massive Battery.",
-            "text": "<p>65-watt-hour lithium-polymer battery providing up to 14 hours battery life with a Gallium Nitride charger that is 30% smaller than traditional chargers, making it easy to take on the go.<\/p>",
+            "title": "Minuscule charger, massive battery",
+            "text": "<ul><li>Up to 12 hrs battery life<\/li><li>Gallium Nitride charger, 30% smaller than traditional chargers<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "column_hM3UDp",
         "column_iLWnGQ",
-        "column_YF8RPz",
-        "column_hM3UDp"
+        "column_YF8RPz"
       ],
       "settings": {
         "title": "Compact yet powerful.",
