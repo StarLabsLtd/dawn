@@ -233,20 +233,11 @@
             "text": "<p>Tailor your firmware effortlessly using the Advanced Configuration interface, a nod to the trusted feel of traditional BIOS.<br\/><br\/>From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mould your firmware to your unique specifications.<\/p>",
             "text_style": "body"
           }
-        },
-        "button_yxyGTQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_BT9DFF",
-        "text_zWPQg6",
-        "button_yxyGTQ"
+        "text_zWPQg6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
@@ -260,6 +251,128 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_bCQGkn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kYpfTX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Versatile Connectivity",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kYpfTX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_WLz6V4": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_abQ9dV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bGU9N3": {
+          "type": "column",
+          "settings": {
+            "title": "Headphone Jack",
+            "text": "<p>For audio output<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eBXcmU": {
+          "type": "column",
+          "settings": {
+            "title": "USB-C",
+            "text": "<p>For expansion<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ziQexn": {
+          "type": "column",
+          "settings": {
+            "title": "USB-A",
+            "text": "<p>4 x Full-size USB 3.0<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7X4G6X": {
+          "type": "column",
+          "settings": {
+            "title": "Full HDMI",
+            "text": "<p>For easy output<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pyG4UX": {
+          "type": "column",
+          "settings": {
+            "title": "Display Port",
+            "text": "<p>For display out<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fNtUJL": {
+          "type": "column",
+          "settings": {
+            "title": "Ethernet",
+            "text": "<p>1 x 2500 Mbps<\/p><p>1 x 1000 Mbps<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bGU9N3",
+        "column_eBXcmU",
+        "column_ziQexn",
+        "column_7X4G6X",
+        "column_pyG4UX",
+        "column_fNtUJL"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -426,76 +539,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_WLz6V4": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_UeLLyj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_XgNFDJ": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_eYTwX9": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_UeLLyj",
-        "text_XgNFDJ",
-        "buttons_eYTwX9"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "rich_text_bCQGkn": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_kYpfTX": {
-          "type": "heading",
-          "settings": {
-            "heading": "Versatile Connectivity",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kYpfTX"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -504,11 +547,12 @@
     "rich_text_k8NWek",
     "multicolumn_PD7PiM",
     "image_with_text_aUMEhL",
+    "rich_text_bCQGkn",
+    "image_banner_WLz6V4",
+    "multicolumn_abQ9dV",
     "rich_text_fxU7QR",
     "multicolumn_48tfcQ",
     "related-products",
-    "collapsible_content_i3C9ja",
-    "image_banner_WLz6V4",
-    "rich_text_bCQGkn"
+    "collapsible_content_i3C9ja"
   ]
 }
