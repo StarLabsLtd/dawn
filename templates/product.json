@@ -161,7 +161,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 4
       }
     },
     "rich_text_nhfUpf": {
@@ -177,7 +177,7 @@
         "text_4HmNgN": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>Open source hardware allows users to inspect the design and functionality of the laptop's components. This transparency can help identify any potential security or privacy vulnerabilities, as opposed to closed-source (proprietary) hardware, where the inner workings are not disclosed.<\/p>"
           }
         }
       },
@@ -188,10 +188,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "multicolumn_txiYXy": {
@@ -294,32 +294,13 @@
         "heading_LRmFhr": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Versatile Connectivity",
             "heading_size": "h1"
-          }
-        },
-        "text_MjFFxN": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_jMqWeD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_LRmFhr",
-        "text_MjFFxN",
-        "button_jMqWeD"
+        "heading_LRmFhr"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -333,9 +314,9 @@
     "image_banner_BGh3kU": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/StarBook-2-01x2000_917920c7-af0f-4e05-a4af-be190c56c5d0.png",
+        "image": "shopify:\/\/shop_images\/StarBook-2-08x2000_6437e310-8a79-4f5b-8316-06d8fb0ce8ed.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
