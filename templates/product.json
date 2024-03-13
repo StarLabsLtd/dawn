@@ -177,7 +177,7 @@
         "text_4HmNgN": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": ""
           }
         }
       },
@@ -256,14 +256,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Endless Firmware Customization",
+            "heading": "Endless Firmware Customisation",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p><p><\/p>",
+            "text": "<p>Tailor your firmware effortlessly using the Advanced Configuration interface, a nod to the trusted feel of traditional BIOS.<br\/><br\/>From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mold your firmware to your unique specifications.<\/p>",
             "text_style": "body"
           }
         }
@@ -273,7 +273,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
+        "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -286,6 +286,64 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_9CUDmY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LRmFhr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_MjFFxN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_jMqWeD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LRmFhr",
+        "text_MjFFxN",
+        "button_jMqWeD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_BGh3kU": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/StarBook-2-01x2000_917920c7-af0f-4e05-a4af-be190c56c5d0.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn": {
@@ -598,6 +656,8 @@
     "rich_text_nhfUpf",
     "multicolumn_txiYXy",
     "image-with-text",
+    "rich_text_9CUDmY",
+    "image_banner_BGh3kU",
     "multicolumn",
     "collapsible_content_EDbXnU",
     "related-products"
