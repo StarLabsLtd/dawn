@@ -123,6 +123,7 @@
         "column_LNV7tY": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/wizard-01x2000.png",
             "title": "Unparalleled support",
             "text": "<p>Our highly skilled support team based in the UK can assist with any support queries or general advice on getting the best out of Linux and our laptops.<\/p>",
             "link_label": "",
@@ -132,7 +133,38 @@
         "column_r6cihA": {
           "type": "column",
           "settings": {
-            "title": "14-days to change your mind",
+            "image": "shopify:\/\/shop_images\/UK-01x2000.png",
+            "title": "<strong>Assembled, imaged and programmed in the UK<\/strong>",
+            "text": "<p>Configured by our own engineers, giving you peace of mind that you get what you want with no hidden extras.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EmnyGW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/octocat-01x2000.png",
+            "title": "<strong>Supports the developers<\/strong>",
+            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wrifCb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ssd-01x200.png",
+            "title": "<strong>Custom-built to order.<\/strong>",
+            "text": "<p>Our laptops are highly customisable, which allows you to only pay for what you will use. You can choose from a host of options, ranging from the power cable to the firmware<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mGWbVB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/package-01x2000.png",
+            "title": "<strong>14 days to change your mind<\/strong>",
             "text": "<p>We do this for passion, and as such, we're confident you'll love our laptops as much as we do. If you don't, you have 14 days from the day you receive it to change your mind.<\/p>",
             "link_label": "",
             "link": ""
@@ -142,7 +174,10 @@
       "block_order": [
         "column_q9g6bz",
         "column_LNV7tY",
-        "column_r6cihA"
+        "column_r6cihA",
+        "column_EmnyGW",
+        "column_wrifCb",
+        "column_mGWbVB"
       ],
       "settings": {
         "title": "",
