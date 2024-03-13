@@ -122,7 +122,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -213,6 +213,53 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_aUMEhL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BT9DFF": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Endless Firmware Customisation<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_zWPQg6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tailor your firmware effortlessly using the Advanced Configuration interface, a nod to the trusted feel of traditional BIOS.<br\/><br\/>From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mould your firmware to your unique specifications.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_yxyGTQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BT9DFF",
+        "text_zWPQg6",
+        "button_yxyGTQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -319,50 +366,135 @@
         "padding_bottom": 28
       }
     },
-    "image_with_text_aUMEhL": {
-      "type": "image-with-text",
+    "collapsible_content_i3C9ja": {
+      "type": "collapsible-content",
       "blocks": {
-        "heading_BT9DFF": {
-          "type": "heading",
+        "collapsible_row_Me7chQ": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Chassis",
+            "icon": "none",
+            "row_content": "<p>Polycarbonate and nickel housing<\/p>",
+            "page": ""
           }
         },
-        "text_zWPQg6": {
-          "type": "text",
+        "collapsible_row_kDJQBF": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "heading": "Processor",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         },
-        "button_yxyGTQ": {
-          "type": "button",
+        "collapsible_row_8BfYkG": {
+          "type": "collapsible_row",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "heading": "Storage",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_LMWVr7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Expandable Storage",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "heading_BT9DFF",
-        "text_zWPQg6",
-        "button_yxyGTQ"
+        "collapsible_row_Me7chQ",
+        "collapsible_row_kDJQBF",
+        "collapsible_row_8BfYkG",
+        "collapsible_row_LMWVr7"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "caption": "",
+        "heading": "Specification",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_WLz6V4": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UeLLyj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_XgNFDJ": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_eYTwX9": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UeLLyj",
+        "text_XgNFDJ",
+        "buttons_eYTwX9"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_bCQGkn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kYpfTX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Versatile Connectivity",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kYpfTX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -371,9 +503,12 @@
     "multicolumn_3BbPDg",
     "rich_text_k8NWek",
     "multicolumn_PD7PiM",
+    "image_with_text_aUMEhL",
     "rich_text_fxU7QR",
     "multicolumn_48tfcQ",
     "related-products",
-    "image_with_text_aUMEhL"
+    "collapsible_content_i3C9ja",
+    "image_banner_WLz6V4",
+    "rich_text_bCQGkn"
   ]
 }

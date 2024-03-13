@@ -602,7 +602,7 @@
           "settings": {
             "heading": "Connectivity",
             "icon": "none",
-            "row_content": "<p><strong>Left<\/strong><br\/>Intel® Core™ i3-1315U and i7-1360P:<br\/>Thunderbolt 4.0 with Power Delivery 3.0<br\/>Intel® Core™ i5-1240P and i7-1260P, AMD Ryzen™ 7 5800U:<br\/>USB Type C with Power Delivery 3.0<br\/>HDMI<br\/>USB Type A<br\/>DC Charging<br\/>Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: DisplayPort (DP Alt Mode)<br\/>USB-C version: 3.2 Gen 2 (up to 10 Gbps)<br\/>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<\/p><p><strong>Right<\/strong><br\/>Micro SD Memory Card Reader<br\/>USB 3.0<br\/>USB 2.0<br\/>3.5mm Combination Jack<\/p><p>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<br\/>3.5mm support: Headphone\/Microphone<\/p>",
+            "row_content": "<p><strong>Left<\/strong><br\/>Intel® Core™ i3-1315U and i7-1360P:<br\/>Thunderbolt 4.0 with Power Delivery 3.0<br\/>Intel® Core™ i5-1240P and i7-1260P, AMD Ryzen™ 7 5800U:<br\/>USB Type C with Power Delivery 3.0<br\/>HDMI<br\/>USB Type A<br\/>DC Charging Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: DisplayPort (DP Alt Mode)<br\/>USB-C version: 3.2 Gen 2 (up to 10 Gbps)<br\/>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<\/p><p><strong>Right<\/strong><br\/>Micro SD Memory Card Reader<br\/>USB 3.0<br\/>USB 2.0<br\/>3.5mm Combination Jack<\/p><p>USB-A version: 3.2 Gen 1 (up to 5 Gbps)<br\/>3.5mm support: Headphone\/Microphone<\/p>",
             "page": ""
           }
         },
