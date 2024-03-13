@@ -1,0 +1,790 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_g9LRQk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iLWnGQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lite-5-MU-03x2000_0320b1e6-1845-4df1-b881-abe6893b7fd5.png",
+            "title": "Crystal clarity. Touch precision.",
+            "text": "<p>Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YF8RPz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/StarLite-MkV-01x2000.png",
+            "title": "Glass Trackpad. Metal Chassis.",
+            "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hM3UDp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7StarBook-2-07x2000_6e124175-95d9-4d89-8f02-584556cff4c5.png",
+            "title": "Minuscule Charger. Massive Battery.",
+            "text": "<p>65-watt-hour lithium-polymer battery providing up to 14 hours battery life with a Gallium Nitride charger that is 30% smaller than traditional chargers, making it easy to take on the go.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iLWnGQ",
+        "column_YF8RPz",
+        "column_hM3UDp"
+      ],
+      "settings": {
+        "title": "Compact yet powerful.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "rich_text_nhfUpf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KbXUhi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Open-source firmware powered by coreboot and edk II",
+            "heading_size": "h1"
+          }
+        },
+        "text_4HmNgN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Open source hardware allows users to inspect the design and functionality of the laptop's components. This transparency can help identify any potential security or privacy vulnerabilities, as opposed to closed-source (proprietary) hardware, where the inner workings are not disclosed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KbXUhi",
+        "text_4HmNgN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_txiYXy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aWmd4a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TPM-01x2000_04b9a00f-020b-441a-bc14-71ec55b44f6e.png",
+            "title": "Measured Boot",
+            "text": "<p>Secured boot flow gives you peace of mind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PQTQcd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lvfs-01x2000_c4937619-cad5-4892-9910-7476956d8add.png",
+            "title": "5-years of updates",
+            "text": "<p>Backed by secure updates delivered via the LVFS.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_imUHWk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coreboot-01x2000_be78160a-8fa2-4252-bd7e-78e8613da001.png",
+            "title": "Lightweight Firmware",
+            "text": "<p>Super efficient firmware that only takes 0.76s to POST.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aWmd4a",
+        "column_PQTQcd",
+        "column_imUHWk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Endless Firmware Customisation",
+            "heading_size": "h1"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tailor your firmware effortlessly using the Advanced Configuration interface, a nod to the trusted feel of traditional BIOS.<br\/><br\/>From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mold your firmware to your unique specifications.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CFR-01x2000_cf6e2e93-1bc5-485e-af45-2ae20d5fd19b.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9CUDmY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LRmFhr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Versatile Connectivity",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LRmFhr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_BGh3kU": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/StarBook-2-08x2000_6437e310-8a79-4f5b-8316-06d8fb0ce8ed.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_7dB8Qr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QzYtJd": {
+          "type": "column",
+          "settings": {
+            "title": "WiFi 5 and Bluetooth 5.1",
+            "text": "<p>For all things wireless<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8xR74x": {
+          "type": "column",
+          "settings": {
+            "title": "2 x USB-C",
+            "text": "<p>For charging and expansion<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_R9fncA": {
+          "type": "column",
+          "settings": {
+            "title": "Micro HDMI",
+            "text": "<p>For easy output<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jBKk7y": {
+          "type": "column",
+          "settings": {
+            "title": "Micro SD",
+            "text": "<p>For importing from a camera and mobile data transfers<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3FpWzM": {
+          "type": "column",
+          "settings": {
+            "title": "Headphone Jack",
+            "text": "<p>For audio output<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QzYtJd",
+        "column_8xR74x",
+        "column_R9fncA",
+        "column_jBKk7y",
+        "column_3FpWzM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_WrHehT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_YCcnRK": {
+          "type": "heading",
+          "settings": {
+            "heading": "A keyboard that's pure function.",
+            "heading_size": "h1"
+          }
+        },
+        "text_n8Ppi6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Backlit<\/p><p>Media Keys<\/p><p>Function Lock<\/p><p>International Layouts Available<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YCcnRK",
+        "text_n8Ppi6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/StarLite-MkV-06x2000.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_fxU7QR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dMqiBb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Open warranty",
+            "heading_size": "h1"
+          }
+        },
+        "text_TGrMik": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Laptops designed for open-source software need open warranties. Our 1-year limited warranty allows you to take your computer apart, replace parts, install an upgrade, and use any operating system and even your firmware, all without voiding the warranty.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dMqiBb",
+        "text_TGrMik"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_48tfcQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_q9g6bz": {
+          "type": "column",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LNV7tY": {
+          "type": "column",
+          "settings": {
+            "title": "Unparalleled support",
+            "text": "<p>Our highly skilled support team based in the UK can assist with any support queries or general advice on getting the best out of Linux and our laptops.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r6cihA": {
+          "type": "column",
+          "settings": {
+            "title": "Assembled in the UK",
+            "text": "<p>Configured by our own engineers, giving you peace of mind that you get what you want with no hidden extras.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_q9g6bz",
+        "column_LNV7tY",
+        "column_r6cihA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_EDbXnU": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qPjhEk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Chassis",
+            "icon": "none",
+            "row_content": "<p>Type II matte black anodised aluminium<\/p><p>Finish: Bead blasted<br\/>Aluminium Grade: 6<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_N8Kdck": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Display",
+            "icon": "none",
+            "row_content": "<p>12.5-inch (diagonal) LED-backlit 10-point touch display with IPS technology<br\/>2880x1920 resolution at 276 pixels per inch<br\/>3:2 aspect ratio<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HTaTja": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Processor",
+            "icon": "none",
+            "row_content": "<p>1.00GHz quad-core Intel Alder Lake N200<br\/>Turbo Boost up to 3.70GHz, with 6MB Smart Cache<\/p><p>4 Cores<br\/>4 Threads<br\/>6W TDP<br\/>25W PL2<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pgmUhM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Storage",
+            "icon": "none",
+            "row_content": "<p> <br\/>512GB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 2430MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p><p><strong>Configurable to:<\/strong><br\/>1TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p><p><strong>Configurable to:<\/strong><br\/>2TB Gen3 PCIe SSD<\/p><p>Read Speed (CDM): 3370MB\/s<br\/>Write Speed (CDM): 3030MB\/s<br\/>Key Type: M<br\/>Size: M2 2242<br\/>Design: Single-Sided<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FXJB3p": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Firmware",
+            "icon": "none",
+            "row_content": "<p>coreboot<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4p8896": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Memory",
+            "icon": "none",
+            "row_content": "<p>16GB of 4800MHz LPDDR5 onboard memory<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BaLQjJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Graphics",
+            "icon": "none",
+            "row_content": "<p>Intel UHD Graphics<\/p><p>750MHz Graphics Frequency<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tLjzAm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Connectivity",
+            "icon": "none",
+            "row_content": "<p>Micro HDMI<br\/>USB Type C 3.2 with Power Delivery 3.0<br\/>USB Type C 3.2 with Power Delivery 3.0<br\/>Micro SD Memory Card Reader<br\/>3.5mm Headphone Jack<\/p><p>HDMI version: 2.0<br\/>USB-C Interface: Display Port (DP Alt Mode)<br\/>USB version: 3.2 Gen 2 (up to 10 Gbps)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LLq33y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Keyboard and Trackpad",
+            "icon": "none",
+            "row_content": "<p>Magnetic Backlit keyboard<br\/>Trackpad for precise cursor control and Multi-Touch gestures<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KGNFQi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wireless",
+            "icon": "none",
+            "row_content": "<p>Intel Wi-Fi 5 9560<br\/>802.11ac Wi-Fi; Up to 1.73 Gbps<br\/>802.11ac\/a\/b\/g\/n compatible<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gFixPe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Bluetooth",
+            "icon": "none",
+            "row_content": "<p>Bluetooth 5.1<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UJLRhA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Camera",
+            "icon": "none",
+            "row_content": "<p>2k camera<br\/>2k rear camera<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bxrHhC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Video Support",
+            "icon": "none",
+            "row_content": "<p>Simultaneously supports full native resolution on the built-in display and:<br\/>Up to two displays with 3840x2160 resolution at 30Hz<\/p><p>Up to 3840x2160 resolution at 60Hz using HDMI<br\/>Up to 3840x2160 resolution at 30Hz using Display Port<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VafWyc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Audio",
+            "icon": "none",
+            "row_content": "<p>Stereo Speakers<br\/>Dual Digital Microphone<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_8LTpfG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Embedded Controller",
+            "icon": "none",
+            "row_content": "<p>ITE 5570E<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rhkQi6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Battery and Power",
+            "icon": "none",
+            "row_content": "<p>Up to 12 hours battery life<br\/>38-watt-hour lithium-polymer battery<br\/>65w USB-C Power Adapter<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RpULmX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Operating Requirements",
+            "icon": "none",
+            "row_content": "<p>Line voltage: 100V to 240V AC<br\/>Frequency: 50Hz to 60Hz<br\/>Operating temperature: 5° to 40° C (41° to 104° F)<br\/>Storage temperature: -20° to 60° C (-4° to 140° F)<br\/>Relative humidity: 0% to 90% non-condensing<br\/>Operating altitude: tested up to 3048 metres (10000 feet)<br\/>Maximum storage altitude: 12192 metres (40000 feet)<br\/>Maximum shipping altitude: 12192 metres (40000 feet)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YcJP76": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Size and Weight",
+            "icon": "none",
+            "row_content": "<p>Height: 0.89 cm (0.35 inches)<br\/>Width: 28.33 cm (11.15 inches)<br\/>Depth: 20.3 cm (7.99 inches)<br\/>Weight: 0.9 kg (1.98 pounds)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ezXNJt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Operating System",
+            "icon": "none",
+            "row_content": "<p>Ubuntu 22.04 LTS (64-bit) or later<br\/>elementary OS 6.1 (64-bit) or later<br\/>Linux Mint 21 (64-bit) or later<br\/>Manjaro 21.3.7 (64-bit) or later<br\/>MX Linux 21.1 (64-bit) or later<br\/>Zorin OS 16.1 (64-bit) or later<br\/>Windows 11 22H1 (64-bit) or later<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Nkwbgn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's in the Box",
+            "icon": "none",
+            "row_content": "<p>12.5-inch Star Lite<br\/>65W USB‑C Power Adapter<br\/>USB-C to USB-C Charging Cable (2m)<br\/>Detachable plug (UK, EU, US and AU available)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d47HUW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Limited Warranty and Service",
+            "icon": "none",
+            "row_content": "<p>One-year limited warranty<br\/>One-year limited technical support<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qPjhEk",
+        "collapsible_row_N8Kdck",
+        "collapsible_row_HTaTja",
+        "collapsible_row_pgmUhM",
+        "collapsible_row_FXJB3p",
+        "collapsible_row_4p8896",
+        "collapsible_row_BaLQjJ",
+        "collapsible_row_tLjzAm",
+        "collapsible_row_LLq33y",
+        "collapsible_row_KGNFQi",
+        "collapsible_row_gFixPe",
+        "collapsible_row_UJLRhA",
+        "collapsible_row_bxrHhC",
+        "collapsible_row_VafWyc",
+        "collapsible_row_8LTpfG",
+        "collapsible_row_rhkQi6",
+        "collapsible_row_RpULmX",
+        "collapsible_row_YcJP76",
+        "collapsible_row_ezXNJt",
+        "collapsible_row_Nkwbgn",
+        "collapsible_row_d47HUW"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Specification",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_g9LRQk",
+    "rich_text_nhfUpf",
+    "multicolumn_txiYXy",
+    "image-with-text",
+    "rich_text_9CUDmY",
+    "image_banner_BGh3kU",
+    "multicolumn_7dB8Qr",
+    "image_with_text_WrHehT",
+    "rich_text_fxU7QR",
+    "multicolumn_48tfcQ",
+    "collapsible_content_EDbXnU",
+    "related-products"
+  ]
+}
