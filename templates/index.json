@@ -334,8 +334,18 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Support",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "TODO: Shipping",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jeif9H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/package-01x2000.png",
+            "title": "<strong>14 days to change your mind<\/strong>",
+            "text": "<p>We do this for passion, and as such, we're confident you'll love our laptops as much as we do. If you don't, you have 14 days from the day you receive it to change your mind<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -343,8 +353,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "About Us",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/wizard-01x2000.png",
+            "title": "<strong>Unparalleled support<\/strong>",
+            "text": "<p>Our highly skilled support team based in the UK can assist with any support queries or general advice on getting the best out of Linux and our laptops.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -352,8 +363,29 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Financing",
+            "image": "shopify:\/\/shop_images\/UK-01x2000.png",
+            "title": "<strong>Assembled, imaged and programmed in the UK<\/strong>",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BCRNHk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ssd-01x200.png",
+            "title": "<strong>Custom-built to order<\/strong>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_H3kH8h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/octocat-01x2000.png",
+            "title": "<strong>Supports the developers<\/strong>",
+            "text": "<p>We work with the developers from some of the top Linux distributions to ensure the best experience. We donate a portion of our sales to help their projects go further.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -361,8 +393,11 @@
       },
       "block_order": [
         "column1",
+        "column_jeif9H",
         "column2",
-        "column3"
+        "column3",
+        "column_BCRNHk",
+        "column_H3kH8h"
       ],
       "settings": {
         "title": "",
@@ -370,7 +405,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
