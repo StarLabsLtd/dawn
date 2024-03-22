@@ -13,7 +13,7 @@
         "text_E9zPAU": {
           "type": "text",
           "settings": {
-            "text": "<p>Our hardware and firmware are highly customisable. Your laptop will arrive precisely the way you want it, with your chosen distribution pre-installed.<\/p>"
+            "text": "<p>A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed exceptions.<\/p>"
           }
         },
         "button_tpzyTV": {
@@ -55,7 +55,7 @@
         "text_nwL4h7": {
           "type": "text",
           "settings": {
-            "text": "<p>Minimalist design. Powerful performance. This 14-inch Ultrabook propels the open-source experience into the modern era.<\/p>",
+            "text": "<h2>14-inch Ultrabook<\/h2><h4>From £973<\/h4>",
             "text_style": "body"
           }
         },
@@ -102,7 +102,7 @@
         "text_E6nzFd": {
           "type": "text",
           "settings": {
-            "text": "<p>Compact yet powerful, this 12.5-inch hybrid laptop is your perfect partner in every journey.<\/p>",
+            "text": "<h2> 12.5-inch hybrid laptop<\/h2><h4>From £548<\/h4>",
             "text_style": "body"
           }
         },
@@ -149,7 +149,7 @@
         "text_7B3kxt": {
           "type": "text",
           "settings": {
-            "text": "<p>Fanless Mini PC. Quiet, compact and uncompromisingly secure.<\/p>",
+            "text": "<h2>Mini PC<\/h2><h4>From £408<\/h4>",
             "text_style": "body"
           }
         },
@@ -230,7 +230,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Learn More",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -259,7 +259,7 @@
         "button_Vj8JiL": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Find out more",
             "button_link": "",
             "button_style_secondary": false
           }

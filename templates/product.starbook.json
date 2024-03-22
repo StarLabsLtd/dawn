@@ -111,22 +111,22 @@
     "multicolumn_g9LRQk": {
       "type": "multicolumn",
       "blocks": {
-        "column_iLWnGQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
-            "title": "All matte. No glare.",
-            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_YF8RPz": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/StarBook-2-04x2000_74a56b69-26ec-4543-a950-d91ec81497c9.png",
             "title": "Glass Trackpad. Metal Chassis.",
             "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iLWnGQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
+            "title": "All matte. No glare.",
+            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -143,8 +143,8 @@
         }
       },
       "block_order": [
-        "column_iLWnGQ",
         "column_YF8RPz",
+        "column_iLWnGQ",
         "column_hM3UDp"
       ],
       "settings": {

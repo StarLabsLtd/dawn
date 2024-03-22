@@ -84,8 +84,8 @@
         "column_qqeCNr": {
           "type": "column",
           "settings": {
-            "title": "Intel N200 processor",
-            "text": "<p>Up to 3.7GHz quad-core processing<\/p>",
+            "title": "Quick",
+            "text": "<p>Intel N200 processor with  up to 3.7GHz quad-core processing<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -390,7 +390,7 @@
           "type": "column",
           "settings": {
             "title": "Display Port",
-            "text": "<p>For display out<\/p>",
+            "text": "<p>For display output<\/p>",
             "link_label": "",
             "link": ""
           }

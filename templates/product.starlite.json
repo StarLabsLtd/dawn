@@ -102,8 +102,8 @@
         "column_YF8RPz": {
           "type": "column",
           "settings": {
-            "title": "38-watt-hour lithium-polymer battery",
-            "text": "<ul><li>Up to 12 hrs battery life<\/li><\/ul>",
+            "title": "Up to 12 hrs battery life",
+            "text": "<ul><li>38-watt-hour lithium-polymer battery<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -373,14 +373,14 @@
         "heading_YCcnRK": {
           "type": "heading",
           "settings": {
-            "heading": "A keyboard that's pure function.",
+            "heading": "Magnetic Keyboard",
             "heading_size": "h1"
           }
         },
         "text_n8Ppi6": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Backlit:<\/strong> comfortable backlit keys with snappy scissor mechanisms<\/p><p><strong>Media Keys:<\/strong> playback, volume, brightness, screenshots and more<\/p><p><strong>Function Lock: <\/strong>switch between media and traditional function keys with one tap<\/p><p><strong>International Layouts Available:<\/strong> US English, UK English, French, German, Nordic and Spanish layouts<\/p><p><\/p>",
+            "text": "<p><strong>Backlit:<\/strong> comfortable backlit keys with snappy scissor mechanisms<\/p><p><strong>Media Keys:<\/strong> playback, volume, brightness, screenshots and more<\/p><p><strong>Function Lock: <\/strong>switch between media and traditional function keys with one tap<\/p><p><strong>International Layouts Available:<\/strong> US English, UK English, French, German, Nordic and Spanish layouts<\/p><p><\/p><p><em>Please note the magnetic keyboard is sold separately<\/em><\/p>",
             "text_style": "body"
           }
         }
