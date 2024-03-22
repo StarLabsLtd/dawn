@@ -115,8 +115,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/StarBook-2-04x2000_74a56b69-26ec-4543-a950-d91ec81497c9.png",
-            "title": "Glass Trackpad. Metal Chassis.",
-            "text": "<p>An oversized trackpad with a legendary glass surface; dyed, toughened and treated with oleophobic coating. It also features a built-in fingerprint reader.<\/p>",
+            "title": "Impressively Powerful",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -126,7 +126,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/StarBook-2-Elementary-01x2000_a6837da2-fc2a-4266-b1b5-5fe9e5cfc2d0.png",
             "title": "All matte. No glare.",
-            "text": "<p>A true matte display with a protective coating allows colours to shine while diffusing ambient light.<\/p><p><strong>1920x1080 Full HD Resolution<\/strong><\/p><p><strong>400cd\/m² of brightness<\/strong><\/p><p><strong>178° viewing angles and 180° hinge<\/strong><\/p>",
+            "text": "<p>A true matte full HD display with a protective coating allows colours to shine while diffusing ambient light.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -135,8 +135,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/7StarBook-2-07x2000_6e124175-95d9-4d89-8f02-584556cff4c5.png",
-            "title": "Minuscule Charger. Massive Battery.",
-            "text": "<p>65-watt-hour lithium-polymer battery providing up to 14 hours battery life with a Gallium Nitride charger that is 30% smaller than traditional chargers, making it easy to take on the go.<\/p>",
+            "title": "Massive Battery.",
+            "text": "<p>Enjoy up to 14 hours of uninterrupted productivity, ensuring you can work throughout the day without interruption wherever you go.<\/p>",
             "link_label": "",
             "link": ""
           }
