@@ -185,6 +185,17 @@
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
+      },
+      "scheme-fc4cb4e8-5e0c-4767-b6e1-ee9f319ff1ed": {
+        "settings": {
+          "background": "#f3f3f3",
+          "background_gradient": "linear-gradient(180deg, rgba(19, 69, 245, 1) 2%, rgba(234, 236, 249, 1) 100%)",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#fff",
+          "shadow": "#fff"
+        }
       }
     }
   },

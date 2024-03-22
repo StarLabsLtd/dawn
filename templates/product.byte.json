@@ -85,7 +85,7 @@
           "type": "column",
           "settings": {
             "title": "Quick",
-            "text": "<p>Intel N200 processor with  up to 3.7GHz quad-core processing<\/p>",
+            "text": "<p>The Byte is powered by an Intel N200 Alder Lake processor, delivering swift quad-core processing speeds of up to 3.7GHz. Experience a rapid and efficient workspace solution like never before.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -124,7 +124,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-fc4cb4e8-5e0c-4767-b6e1-ee9f319ff1ed",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -137,6 +137,7 @@
         "column_9Jr8D8": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SSD.png",
             "title": "Expandable Storage",
             "text": "<p>Add a second 2.5\" SSD<\/p><p>Up to 6 TB storage<\/p>",
             "link_label": "",
@@ -146,6 +147,7 @@
         "column_Bk7Tyw": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/RAM.png",
             "title": "Memory",
             "text": "<p>Up to 16 GB 3200MHz memory<\/p>",
             "link_label": "",
@@ -155,6 +157,7 @@
         "column_NY3fxg": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Wireless.png",
             "title": "Wireless",
             "text": "<p>Removable wireless card<\/p>",
             "link_label": "",
@@ -168,7 +171,7 @@
         "column_NY3fxg"
       ],
       "settings": {
-        "title": "Highly Configurable",
+        "title": "Flexible Configuration",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -190,7 +193,7 @@
         "heading_9ggB8H": {
           "type": "heading",
           "settings": {
-            "heading": "Open-source firmware powered by core boot and edk II",
+            "heading": "Open-source firmware powered by coreboot and edk II",
             "heading_size": "h1"
           }
         },
@@ -263,7 +266,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-fc4cb4e8-5e0c-4767-b6e1-ee9f319ff1ed",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
