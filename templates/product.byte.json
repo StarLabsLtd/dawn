@@ -90,6 +90,15 @@
             "link": ""
           }
         },
+        "column_VhVXEb": {
+          "type": "column",
+          "settings": {
+            "title": "Quiet",
+            "text": "<p>The fanless design eliminates the noise typically associated with traditional PC cooling systems, creating a quiet computing atmosphere ideal for noise-sensitive environments.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_dPEwyF": {
           "type": "column",
           "settings": {
@@ -98,21 +107,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_VhVXEb": {
-          "type": "column",
-          "settings": {
-            "title": "Quiet",
-            "text": "<p>Fanless 0db design<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_qqeCNr",
-        "column_dPEwyF",
-        "column_VhVXEb"
+        "column_VhVXEb",
+        "column_dPEwyF"
       ],
       "settings": {
         "title": "Quick, Quiet & Compact",
