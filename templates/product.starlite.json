@@ -84,8 +84,8 @@
         "column_hM3UDp": {
           "type": "column",
           "settings": {
-            "title": "Intel Alder Lake N200 processor",
-            "text": "<ul><li>1.00GHz quad-core Intel Alder Lake N200<\/li><li>Turbo Boost up to 3.70GHz, with 6MB Smart Cache<\/li><\/ul>",
+            "title": "Processor",
+            "text": "<p>The Lite is powered by an Intel N200 Alder Lake processor, delivering swift quad-core processing speeds of up to 3.7GHz.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -93,8 +93,8 @@
         "column_iLWnGQ": {
           "type": "column",
           "settings": {
-            "title": "12.5-inch visible 3k touch display",
-            "text": "<ul><li>2880x1920 resolution<\/li><li>300cd\/m² brightness<\/li><li>178° viewing angles<\/li><\/ul>",
+            "title": "Screen",
+            "text": "<p>Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -102,8 +102,8 @@
         "column_YF8RPz": {
           "type": "column",
           "settings": {
-            "title": "Up to 12 hrs battery life",
-            "text": "<ul><li>38-watt-hour lithium-polymer battery<\/li><\/ul>",
+            "title": "Battery",
+            "text": "<p>Featuring a battery life of up to 12 hours, this lightweight hybrid laptop is the perfect companion for those on the go.<\/p>",
             "link_label": "",
             "link": ""
           }
